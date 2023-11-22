@@ -1,0 +1,34 @@
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingBLLibrary.deps.json
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingBLLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingBLLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingDALLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingModelLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingDALLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingModelLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.AssemblyInfoInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.AssemblyInfo.cs
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.csproj.CopyComplete
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\refint\ShoppingBLLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ref\ShoppingBLLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingBLLibrary.deps.json
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingBLLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingBLLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingDALLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingModelLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingDALLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\bin\Debug\net6.0\ShoppingModelLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.AssemblyInfoInputs.cache
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.AssemblyInfo.cs
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.csproj.CopyComplete
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\refint\ShoppingBLLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDLLibrary\obj\Debug\net6.0\ref\ShoppingBLLibrary.dll

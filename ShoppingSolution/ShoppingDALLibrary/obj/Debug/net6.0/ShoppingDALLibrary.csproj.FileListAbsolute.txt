@@ -1,0 +1,30 @@
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingDALLibrary.deps.json
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingDALLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingDALLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingModelLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingModelLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.AssemblyInfoInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.AssemblyInfo.cs
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.csproj.CopyComplete
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\refint\ShoppingDALLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\Hexaware .net\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ref\ShoppingDALLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingDALLibrary.deps.json
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingDALLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingDALLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingModelLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\bin\Debug\net6.0\ShoppingModelLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.AssemblyInfoInputs.cache
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.AssemblyInfo.cs
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.csproj.CopyComplete
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\refint\ShoppingDALLibrary.dll
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ShoppingDALLibrary.pdb
+C:\Users\jyoth\OneDrive\Documents\hexaware day to day\Day3\ShoppingSolution\ShoppingDALLibrary\obj\Debug\net6.0\ref\ShoppingDALLibrary.dll
